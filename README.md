@@ -1,12 +1,4 @@
-# my emacs configuration
+# poomacs
+a terrible emacs config, do not use
 
-this repository contains my simple emacs config.
-
-this config is based on rougier's [elegant-emacs](https://github.com/rougier/elegant-emacs) and [rayes0's configuration](https://github.com/rayes0/emacs).
-
-## install
-install to your `.emacs.d` by using `git clone`
-
-## screenshots
-
-![emacs window](screenshots/picture.png)
+![cirno](visual/splash/cirno.jpg)
